@@ -1,0 +1,9 @@
+Authentication
+https://developers.google.com/identity/protocols/application-default-credentials
+
+Google Cloud NLP API
+https://cloud.google.com/natural-language/docs/sentiment-tutorial
+https://cloud.google.com/natural-language/docs/reference/libraries#client-libraries-usage-java
+
+Create Service Account
+https://cloud.google.com/docs/authentication/getting-started
